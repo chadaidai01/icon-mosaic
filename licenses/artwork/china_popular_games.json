@@ -1,0 +1,17 @@
+[
+  {
+    "id": "ios_6446313004",
+    "name": "剑网3无界",
+    "publisher": "Chengdu Seasun Shiyou Technology Co., Ltd",
+    "group": "china_popular_games",
+    "category": "game",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/4e/a3/224ea363-62a6-96e7-9702-2ee31edc3f4d/AppIcon-1x_U007emarketing-0-8-85-220-0.jpeg/512x512bb.jpg",
+    "source": "https://apps.apple.com/cn/app/%E5%89%91%E7%BD%913%E6%97%A0%E7%95%8C/id6446313004?uo=4",
+    "priority": 0.98,
+    "classification": "Official China chart / curated popular title",
+    "identity_name": "剑网3",
+    "file": "china_popular_games/ios_6446313004.png",
+    "sha256": "2ed3b1361527bbc0ee07fb40ac9a3d9690bb78de4aa689304baa3df587d39aa7",
+    "rights": "Original artwork; copyright and trademark retained by the respective rights holder."
+  }
+]

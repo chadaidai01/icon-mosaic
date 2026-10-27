@@ -1,0 +1,16 @@
+[
+  {
+    "collection": "dashboard",
+    "repository": "https://github.com/homarr-labs/dashboard-icons",
+    "commit": "83f32e08257b66fbd971ac8d7645f5b38d52e85d",
+    "license": "Apache-2.0",
+    "downloaded_files": 4508
+  },
+  {
+    "collection": "selfhst",
+    "repository": "https://github.com/selfhst/icons",
+    "commit": "1d65d45a42e6323b54b8096967b1ea4b65321f97",
+    "license": "CC-BY-4.0",
+    "downloaded_files": 7786
+  }
+]

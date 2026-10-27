@@ -1,0 +1,2882 @@
+{
+  "updated": "2026-10-28",
+  "notes": "Curated recognizable app/game titles and official charts; anime games follow the user-defined grouping.",
+  "overrides": {
+    "china_apps/ios_1618175312.png": {
+      "priority": 0.98,
+      "identity_name": "微信输入法"
+    },
+    "china_apps/ios_414478124.png": {
+      "priority": 0.9888888888888889,
+      "identity_name": "微信"
+    },
+    "china_apps/ios_952059546.png": {
+      "priority": 0.98,
+      "identity_name": "微信读书"
+    },
+    "china_apps/ios_1522424583.png": {
+      "priority": 0.98,
+      "identity_name": "微信"
+    },
+    "china_apps/ios_370139302.png": {
+      "priority": 0.98,
+      "identity_name": "QQ浏览器"
+    },
+    "china_apps/ios_389481236.png": {
+      "priority": 0.98,
+      "identity_name": "QQ"
+    },
+    "china_apps/ios_444934666.png": {
+      "priority": 0.9833333333333333,
+      "identity_name": "QQ"
+    },
+    "china_apps/ios_364183992.png": {
+      "priority": 0.98,
+      "identity_name": "QQ空间"
+    },
+    "china_apps/ios_473225145.png": {
+      "priority": 0.98,
+      "identity_name": "QQ"
+    },
+    "china_apps/ios_414603431.png": {
+      "priority": 0.9833333333333333,
+      "identity_name": "QQ音乐"
+    },
+    "china_apps/ios_487608658.png": {
+      "priority": 0.98,
+      "identity_name": "QQ"
+    },
+    "china_apps/mi_178.png": {
+      "priority": 0.98,
+      "identity_name": "QQ"
+    },
+    "china_apps/mi_463380.png": {
+      "priority": 0.98,
+      "identity_name": "QQ飞车"
+    },
+    "china_apps_more/ios_880859615.png": {
+      "priority": 0.98,
+      "identity_name": "QQ"
+    },
+    "china_apps_more/ios_426097375.png": {
+      "priority": 0.98,
+      "identity_name": "QQ浏览器"
+    },
+    "china_apps_more/ios_429885089.png": {
+      "priority": 0.98,
+      "identity_name": "QQ音乐"
+    },
+    "china_games/ios_1235504705.png": {
+      "priority": 0.98,
+      "identity_name": "QQ飞车"
+    },
+    "china_games/mi_591276.png": {
+      "priority": 0.98,
+      "identity_name": "QQ炫舞"
+    },
+    "china_games_more/ios_506655146.png": {
+      "priority": 0.98,
+      "identity_name": "QQ"
+    },
+    "china_games_more/ios_1219233424.png": {
+      "priority": 0.98,
+      "identity_name": "QQ炫舞"
+    },
+    "china_apps/ios_1603172928.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_1142110895.png": {
+      "priority": 0.9833333333333333,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_1477031443.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_6478193712.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_6444170965.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_1086047750.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_1485191072.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "抖音"
+    },
+    "china_apps/mi_879140.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/mi_331354.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/mi_1534978.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/mi_431355.png": {
+      "priority": 0.98,
+      "identity_name": "抖音"
+    },
+    "china_apps/ios_1518761723.png": {
+      "priority": 0.98,
+      "identity_name": "快手"
+    },
+    "china_apps/ios_440948110.png": {
+      "priority": 0.9888888888888889,
+      "identity_name": "快手"
+    },
+    "china_apps/ios_1472502819.png": {
+      "priority": 0.98,
+      "identity_name": "快手"
+    },
+    "china_apps/ios_1508097648.png": {
+      "priority": 0.98,
+      "identity_name": "小红书"
+    },
+    "china_apps/ios_741292507.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "小红书"
+    },
+    "china_apps/mi_69661.png": {
+      "priority": 0.98,
+      "identity_name": "小红书"
+    },
+    "china_apps/ios_736536022.png": {
+      "priority": 0.98,
+      "identity_name": "哔哩哔哩"
+    },
+    "china_apps/ios_1426252715.png": {
+      "priority": 0.98,
+      "identity_name": "哔哩哔哩"
+    },
+    "china_apps_more/ios_1093486973.png": {
+      "priority": 0.98,
+      "identity_name": "哔哩哔哩"
+    },
+    "china_apps_more/ios_1134527767.png": {
+      "priority": 0.98,
+      "identity_name": "哔哩哔哩"
+    },
+    "china_apps/ios_333206289.png": {
+      "priority": 0.9888888888888889,
+      "identity_name": "支付宝"
+    },
+    "china_apps/ios_883096979.png": {
+      "priority": 0.98,
+      "identity_name": "淘宝"
+    },
+    "china_apps/ios_1318074960.png": {
+      "priority": 0.98,
+      "identity_name": "淘宝"
+    },
+    "china_apps/ios_507161324.png": {
+      "priority": 0.98,
+      "identity_name": "淘宝"
+    },
+    "china_apps/ios_387682726.png": {
+      "priority": 0.98,
+      "identity_name": "淘宝"
+    },
+    "china_apps/ios_1340376323.png": {
+      "priority": 0.98,
+      "identity_name": "淘宝"
+    },
+    "china_apps/mi_134770.png": {
+      "priority": 0.98,
+      "identity_name": "淘宝"
+    },
+    "china_apps/ios_987425499.png": {
+      "priority": 0.98,
+      "identity_name": "京东"
+    },
+    "china_apps/ios_895682747.png": {
+      "priority": 0.98,
+      "identity_name": "京东"
+    },
+    "china_apps/ios_414245413.png": {
+      "priority": 0.9888888888888889,
+      "identity_name": "京东"
+    },
+    "china_apps/ios_1564040775.png": {
+      "priority": 0.98,
+      "identity_name": "京东"
+    },
+    "china_apps/ios_1500875111.png": {
+      "priority": 0.98,
+      "identity_name": "京东"
+    },
+    "china_apps/mi_1379349.png": {
+      "priority": 0.98,
+      "identity_name": "京东"
+    },
+    "china_apps/ios_1229469444.png": {
+      "priority": 0.98,
+      "identity_name": "拼多多"
+    },
+    "china_apps/ios_1044283059.png": {
+      "priority": 0.98,
+      "identity_name": "拼多多"
+    },
+    "china_apps/mi_117672.png": {
+      "priority": 0.98,
+      "identity_name": "拼多多"
+    },
+    "china_apps/ios_592673661.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_869802614.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_1474035355.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_1067251466.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_1204082699.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_1473911336.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_423084029.png": {
+      "priority": 0.9833333333333333,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_737310995.png": {
+      "priority": 0.98,
+      "identity_name": "美团"
+    },
+    "china_apps/ios_452186370.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_481623196.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯地图"
+    },
+    "china_apps/ios_911699257.png": {
+      "priority": 0.98,
+      "identity_name": "滴滴出行"
+    },
+    "china_apps/ios_564818797.png": {
+      "priority": 0.98,
+      "identity_name": "铁路12306"
+    },
+    "china_apps/ios_885401020.png": {
+      "priority": 0.98,
+      "identity_name": "携程"
+    },
+    "china_apps/ios_379395415.png": {
+      "priority": 0.98,
+      "identity_name": "携程"
+    },
+    "china_apps_more/ios_688037240.png": {
+      "priority": 0.98,
+      "identity_name": "携程"
+    },
+    "china_apps/ios_453691481.png": {
+      "priority": 0.98,
+      "identity_name": "飞猪"
+    },
+    "china_apps/ios_395096736.png": {
+      "priority": 0.98,
+      "identity_name": "去哪儿"
+    },
+    "china_apps_more/ios_655516874.png": {
+      "priority": 0.98,
+      "identity_name": "去哪儿"
+    },
+    "china_apps/ios_351091731.png": {
+      "priority": 0.98,
+      "identity_name": "大众点评"
+    },
+    "china_apps/ios_510909506.png": {
+      "priority": 0.9833333333333333,
+      "identity_name": "闲鱼"
+    },
+    "china_apps/ios_1012871328.png": {
+      "priority": 0.98,
+      "identity_name": "得物"
+    },
+    "china_apps/ios_417200582.png": {
+      "priority": 0.98,
+      "identity_name": "唯品会"
+    },
+    "china_apps/mi_7055.png": {
+      "priority": 0.98,
+      "identity_name": "唯品会"
+    },
+    "china_apps/ios_1063183999.png": {
+      "priority": 0.98,
+      "identity_name": "盒马"
+    },
+    "china_apps/ios_768082524.png": {
+      "priority": 0.98,
+      "identity_name": "叮咚买菜"
+    },
+    "china_apps/ios_1144025167.png": {
+      "priority": 0.98,
+      "identity_name": "朴朴超市"
+    },
+    "china_apps/ios_1541981555.png": {
+      "priority": 0.98,
+      "identity_name": "QQ音乐"
+    },
+    "china_apps/ios_590338362.png": {
+      "priority": 0.9888888888888889,
+      "identity_name": "网易云音乐"
+    },
+    "china_apps/mi_23021.png": {
+      "priority": 0.98,
+      "identity_name": "网易云音乐"
+    },
+    "china_apps_more/ios_871041757.png": {
+      "priority": 0.98,
+      "identity_name": "网易云音乐"
+    },
+    "china_apps/ios_472208016.png": {
+      "priority": 0.98,
+      "identity_name": "酷狗音乐"
+    },
+    "china_apps/ios_1480205582.png": {
+      "priority": 0.98,
+      "identity_name": "酷狗音乐"
+    },
+    "china_apps_more/ios_657285176.png": {
+      "priority": 0.98,
+      "identity_name": "酷狗音乐"
+    },
+    "china_apps/ios_588673713.png": {
+      "priority": 0.98,
+      "identity_name": "酷我音乐"
+    },
+    "china_apps_more/ios_1058287503.png": {
+      "priority": 0.98,
+      "identity_name": "酷我音乐"
+    },
+    "china_apps/ios_1605585211.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "汽水音乐"
+    },
+    "china_apps/mi_1454430.png": {
+      "priority": 0.98,
+      "identity_name": "汽水音乐"
+    },
+    "china_apps/ios_910513149.png": {
+      "priority": 0.98,
+      "identity_name": "全民K歌"
+    },
+    "china_apps/ios_509885060.png": {
+      "priority": 0.98,
+      "identity_name": "唱吧"
+    },
+    "china_apps/mi_2078.png": {
+      "priority": 0.98,
+      "identity_name": "唱吧"
+    },
+    "china_apps/ios_1488281962.png": {
+      "priority": 0.98,
+      "identity_name": "喜马拉雅"
+    },
+    "china_apps/ios_876336838.png": {
+      "priority": 0.98,
+      "identity_name": "喜马拉雅"
+    },
+    "china_apps/ios_1436675436.png": {
+      "priority": 0.98,
+      "identity_name": "喜马拉雅"
+    },
+    "china_apps/ios_6502745848.png": {
+      "priority": 0.98,
+      "identity_name": "喜马拉雅"
+    },
+    "china_apps_more/ios_1476254052.png": {
+      "priority": 0.98,
+      "identity_name": "喜马拉雅"
+    },
+    "china_apps/ios_506685538.png": {
+      "priority": 0.98,
+      "identity_name": "蜻蜓FM"
+    },
+    "china_apps/mi_1976.png": {
+      "priority": 0.98,
+      "identity_name": "蜻蜓FM"
+    },
+    "china_apps/ios_1093693053.png": {
+      "priority": 0.98,
+      "identity_name": "荔枝"
+    },
+    "china_apps/ios_458318329.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯视频"
+    },
+    "china_apps/mi_1357.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯视频"
+    },
+    "china_apps_more/ios_407925512.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯视频"
+    },
+    "china_apps/ios_542636127.png": {
+      "priority": 0.98,
+      "identity_name": "爱奇艺"
+    },
+    "china_apps/ios_629774477.png": {
+      "priority": 0.98,
+      "identity_name": "芒果TV"
+    },
+    "china_apps_more/ios_489782456.png": {
+      "priority": 0.98,
+      "identity_name": "芒果TV"
+    },
+    "china_apps/ios_787130974.png": {
+      "priority": 0.98,
+      "identity_name": "咪咕视频"
+    },
+    "china_apps_more/ios_1074172735.png": {
+      "priority": 0.98,
+      "identity_name": "咪咕视频"
+    },
+    "china_apps/ios_725215315.png": {
+      "priority": 0.98,
+      "identity_name": "咪咕音乐"
+    },
+    "china_apps_more/ios_1555207587.png": {
+      "priority": 0.98,
+      "identity_name": "咪咕音乐"
+    },
+    "china_apps/ios_1468454200.png": {
+      "priority": 0.98,
+      "identity_name": "番茄小说"
+    },
+    "china_apps/ios_1508443800.png": {
+      "priority": 0.98,
+      "identity_name": "番茄畅听"
+    },
+    "china_apps/mi_1158115.png": {
+      "priority": 0.98,
+      "identity_name": "番茄畅听"
+    },
+    "china_apps/ios_1387717110.png": {
+      "priority": 0.98,
+      "identity_name": "七猫"
+    },
+    "china_apps/ios_1625047891.png": {
+      "priority": 0.98,
+      "identity_name": "七猫"
+    },
+    "china_apps/mi_679382.png": {
+      "priority": 0.98,
+      "identity_name": "七猫"
+    },
+    "china_apps/ios_534174796.png": {
+      "priority": 0.98,
+      "identity_name": "起点读书"
+    },
+    "china_apps/mi_23.png": {
+      "priority": 0.98,
+      "identity_name": "起点读书"
+    },
+    "china_apps/ios_966807283.png": {
+      "priority": 0.98,
+      "identity_name": "晋江小说"
+    },
+    "china_apps/ios_1498413441.png": {
+      "priority": 0.98,
+      "identity_name": "晋江小说"
+    },
+    "china_apps/mi_74080.png": {
+      "priority": 0.98,
+      "identity_name": "晋江小说"
+    },
+    "china_apps/ios_547166701.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_1467852587.png": {
+      "priority": 0.98,
+      "identity_name": "百度网盘"
+    },
+    "china_apps_more/ios_554602005.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_1160172628.png": {
+      "priority": 0.98,
+      "identity_name": "夸克"
+    },
+    "china_apps/ios_6755949705.png": {
+      "priority": 0.98,
+      "identity_name": "夸克"
+    },
+    "china_apps/ios_6450447757.png": {
+      "priority": 0.98,
+      "identity_name": "夸克"
+    },
+    "china_apps_more/ios_1530655740.png": {
+      "priority": 0.98,
+      "identity_name": "夸克"
+    },
+    "china_apps_more/ios_686910560.png": {
+      "priority": 0.98,
+      "identity_name": "UC浏览器"
+    },
+    "china_apps/ios_382201985.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_1281873118.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_916139408.png": {
+      "priority": 0.98,
+      "identity_name": "百度输入法"
+    },
+    "china_apps/ios_6762321369.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_477927812.png": {
+      "priority": 0.98,
+      "identity_name": "百度贴吧"
+    },
+    "china_apps/ios_605670941.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_426340811.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/ios_714802729.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps/mi_315.png": {
+      "priority": 0.98,
+      "identity_name": "百度贴吧"
+    },
+    "china_apps/mi_318.png": {
+      "priority": 0.98,
+      "identity_name": "百度"
+    },
+    "china_apps_more/ios_648228242.png": {
+      "priority": 0.98,
+      "identity_name": "百度贴吧"
+    },
+    "china_apps/ios_917670924.png": {
+      "priority": 0.98,
+      "identity_name": "搜狗输入法"
+    },
+    "china_apps/ios_1582446193.png": {
+      "priority": 0.98,
+      "identity_name": "讯飞输入法"
+    },
+    "china_apps/ios_6459478672.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "豆包"
+    },
+    "china_apps/ios_6469102455.png": {
+      "priority": 0.98,
+      "identity_name": "豆包"
+    },
+    "china_apps/mi_1562009.png": {
+      "priority": 0.98,
+      "identity_name": "豆包"
+    },
+    "china_apps/ios_6480446430.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯元宝"
+    },
+    "china_apps/ios_6737597349.png": {
+      "priority": 0.98,
+      "identity_name": "DeepSeek"
+    },
+    "china_apps/ios_6450893458.png": {
+      "priority": 0.98,
+      "identity_name": "智谱清言"
+    },
+    "china_apps/ios_6670396916.png": {
+      "priority": 0.98,
+      "identity_name": "可灵"
+    },
+    "china_apps/ios_6503676563.png": {
+      "priority": 0.98,
+      "identity_name": "即梦AI"
+    },
+    "china_apps/ios_1458072671.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "剪映"
+    },
+    "china_apps_more/ios_1529999940.png": {
+      "priority": 0.98,
+      "identity_name": "剪映"
+    },
+    "china_apps/ios_416048305.png": {
+      "priority": 0.98,
+      "identity_name": "美图秀秀"
+    },
+    "china_apps_more/ios_463422433.png": {
+      "priority": 0.98,
+      "identity_name": "美图秀秀"
+    },
+    "china_apps/ios_1500526240.png": {
+      "priority": 0.98,
+      "identity_name": "醒图"
+    },
+    "china_apps/mi_1037809.png": {
+      "priority": 0.98,
+      "identity_name": "醒图"
+    },
+    "china_apps/ios_1415653267.png": {
+      "priority": 0.98,
+      "identity_name": "一甜相机"
+    },
+    "china_apps/ios_1596842861.png": {
+      "priority": 0.98,
+      "identity_name": "WPS"
+    },
+    "china_apps/ios_599852710.png": {
+      "priority": 0.98,
+      "identity_name": "WPS"
+    },
+    "china_apps_more/ios_1514047690.png": {
+      "priority": 0.98,
+      "identity_name": "WPS"
+    },
+    "china_apps_more/ios_6751271695.png": {
+      "priority": 0.98,
+      "identity_name": "WPS"
+    },
+    "china_apps/ios_1401729613.png": {
+      "priority": 0.98,
+      "identity_name": "飞书"
+    },
+    "china_apps/ios_1087897068.png": {
+      "priority": 0.98,
+      "identity_name": "企业微信"
+    },
+    "china_apps/ios_1484048379.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯会议"
+    },
+    "china_apps_more/ios_1559687593.png": {
+      "priority": 0.98,
+      "identity_name": "腾讯会议"
+    },
+    "china_apps/ios_1398120225.png": {
+      "priority": 0.98,
+      "identity_name": "金山文档"
+    },
+    "china_apps/ios_353115739.png": {
+      "priority": 0.98,
+      "identity_name": "有道词典"
+    },
+    "china_apps/ios_803781859.png": {
+      "priority": 0.98,
+      "identity_name": "作业帮"
+    },
+    "china_apps/ios_1325419855.png": {
+      "priority": 0.98,
+      "identity_name": "小猿"
+    },
+    "china_apps/ios_906995758.png": {
+      "priority": 0.98,
+      "identity_name": "小猿"
+    },
+    "china_apps/ios_1279609813.png": {
+      "priority": 0.98,
+      "identity_name": "斑马"
+    },
+    "china_apps/mi_102559.png": {
+      "priority": 0.98,
+      "identity_name": "斑马"
+    },
+    "china_apps_more/ios_1324484616.png": {
+      "priority": 0.98,
+      "identity_name": "斑马"
+    },
+    "china_apps_more/ios_1665617086.png": {
+      "priority": 0.98,
+      "identity_name": "斑马"
+    },
+    "china_apps/ios_557545298.png": {
+      "priority": 0.98,
+      "identity_name": "百词斩"
+    },
+    "china_apps/ios_698570469.png": {
+      "priority": 0.98,
+      "identity_name": "不背单词"
+    },
+    "china_apps/ios_698013609.png": {
+      "priority": 0.98,
+      "identity_name": "扇贝"
+    },
+    "china_apps/ios_1661274824.png": {
+      "priority": 0.98,
+      "identity_name": "扇贝"
+    },
+    "china_apps/ios_598541783.png": {
+      "priority": 0.98,
+      "identity_name": "扇贝"
+    },
+    "china_apps_more/ios_897432803.png": {
+      "priority": 0.98,
+      "identity_name": "扇贝"
+    },
+    "china_apps/ios_432274380.png": {
+      "priority": 0.98,
+      "identity_name": "知乎"
+    },
+    "china_apps_more/ios_6502974904.png": {
+      "priority": 0.98,
+      "identity_name": "知乎"
+    },
+    "china_apps/ios_350962117.png": {
+      "priority": 0.98,
+      "identity_name": "微博"
+    },
+    "china_apps/ios_1215210046.png": {
+      "priority": 0.98,
+      "identity_name": "微博"
+    },
+    "china_apps/ios_907002334.png": {
+      "priority": 0.98,
+      "identity_name": "豆瓣"
+    },
+    "china_apps/ios_560068813.png": {
+      "priority": 0.98,
+      "identity_name": "豆瓣"
+    },
+    "china_apps/mi_2488.png": {
+      "priority": 0.98,
+      "identity_name": "豆瓣"
+    },
+    "china_apps/mi_650813.png": {
+      "priority": 0.98,
+      "identity_name": "皮皮虾"
+    },
+    "china_apps/ios_1032287195.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_1329410.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_374320.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_2646460.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_3755860.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_1377580.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_570940.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_3855540.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_1689620.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "steam_games/steam_1520470.png": {
+      "priority": 0.98,
+      "identity_name": "Soul"
+    },
+    "china_apps/ios_861891048.png": {
+      "priority": 0.98,
+      "identity_name": "探探"
+    },
+    "china_apps/ios_1470182559.png": {
+      "priority": 0.98,
+      "identity_name": "米游社"
+    },
+    "china_apps/ios_6447509138.png": {
+      "priority": 0.98,
+      "identity_name": "森空岛"
+    },
+    "china_apps/ios_1444595166.png": {
+      "priority": 0.98,
+      "identity_name": "TapTap"
+    },
+    "china_apps/ios_1244505010.png": {
+      "priority": 0.98,
+      "identity_name": "小黑盒"
+    },
+    "china_apps/ios_1562927731.png": {
+      "priority": 0.98,
+      "identity_name": "好游快爆"
+    },
+    "china_apps/ios_1438381485.png": {
+      "priority": 0.98,
+      "identity_name": "4399游戏盒"
+    },
+    "china_apps/ios_515651240.png": {
+      "priority": 0.98,
+      "identity_name": "农业银行"
+    },
+    "china_apps/ios_391965015.png": {
+      "priority": 0.98,
+      "identity_name": "建设银行"
+    },
+    "china_apps/ios_392899425.png": {
+      "priority": 0.98,
+      "identity_name": "招商银行"
+    },
+    "china_apps/ios_398453262.png": {
+      "priority": 0.98,
+      "identity_name": "掌上生活"
+    },
+    "china_apps/ios_583700738.png": {
+      "priority": 0.9833333333333333,
+      "identity_name": "中国移动"
+    },
+    "china_apps/ios_600273928.png": {
+      "priority": 0.98,
+      "identity_name": "云闪付"
+    },
+    "china_apps/ios_1039727169.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "交管12123"
+    },
+    "china_apps/ios_1165227346.png": {
+      "priority": 0.98,
+      "identity_name": "哈啰"
+    },
+    "china_apps/ios_6476378478.png": {
+      "priority": 0.98,
+      "identity_name": "哈啰"
+    },
+    "china_apps/ios_6504863435.png": {
+      "priority": 0.98,
+      "identity_name": "哈啰"
+    },
+    "china_apps/ios_899529698.png": {
+      "priority": 0.98,
+      "identity_name": "顺丰"
+    },
+    "china_apps/ios_1447790270.png": {
+      "priority": 0.98,
+      "identity_name": "顺丰"
+    },
+    "china_apps/ios_951610982.png": {
+      "priority": 0.98,
+      "identity_name": "菜鸟"
+    },
+    "china_apps/ios_1259763050.png": {
+      "priority": 0.98,
+      "identity_name": "丰巢"
+    },
+    "china_apps/mi_92255.png": {
+      "priority": 0.98,
+      "identity_name": "Keep"
+    },
+    "steam_games/steam_4358690.png": {
+      "priority": 0.98,
+      "identity_name": "Keep"
+    },
+    "steam_games/steam_1621690.png": {
+      "priority": 0.98,
+      "identity_name": "Keep"
+    },
+    "steam_games/steam_1637320.png": {
+      "priority": 0.98,
+      "identity_name": "Keep"
+    },
+    "china_apps/ios_634896669.png": {
+      "priority": 0.98,
+      "identity_name": "美柚"
+    },
+    "china_apps_more/ios_886564208.png": {
+      "priority": 0.98,
+      "identity_name": "美柚"
+    },
+    "china_apps/ios_957323480.png": {
+      "priority": 0.98,
+      "identity_name": "米家"
+    },
+    "china_apps/ios_1325481372.png": {
+      "priority": 0.98,
+      "identity_name": "华为运动健康"
+    },
+    "china_apps/ios_1493500777.png": {
+      "priority": 0.98,
+      "identity_name": "小米运动健康"
+    },
+    "china_apps/ios_571195405.png": {
+      "priority": 0.98,
+      "identity_name": "萤石云"
+    },
+    "china_apps_more/ios_1593573295.png": {
+      "priority": 0.98,
+      "identity_name": "萤石云"
+    },
+    "china_apps/ios_1347663353.png": {
+      "priority": 0.98,
+      "identity_name": "贝壳找房"
+    },
+    "china_apps/ios_685872176.png": {
+      "priority": 0.98,
+      "identity_name": "自如"
+    },
+    "china_apps/ios_480079300.png": {
+      "priority": 0.98,
+      "identity_name": "58同城"
+    },
+    "china_apps/ios_887314963.png": {
+      "priority": 0.98,
+      "identity_name": "BOSS直聘"
+    },
+    "china_apps/ios_488033535.png": {
+      "priority": 0.98,
+      "identity_name": "智联招聘"
+    },
+    "china_apps/ios_415443644.png": {
+      "priority": 0.98,
+      "identity_name": "前程无忧"
+    },
+    "china_games/ios_989673964.png": {
+      "priority": 0.9944444444444445,
+      "identity_name": "王者荣耀"
+    },
+    "china_games/ios_1612566389.png": {
+      "priority": 0.98,
+      "identity_name": "王者荣耀"
+    },
+    "china_games/ios_6468988672.png": {
+      "priority": 0.98,
+      "identity_name": "王者荣耀"
+    },
+    "china_games/mi_108048.png": {
+      "priority": 0.98,
+      "identity_name": "王者荣耀"
+    },
+    "china_apps/mi_547468.png": {
+      "priority": 0.98,
+      "identity_name": "和平精英"
+    },
+    "china_games/ios_1321803705.png": {
+      "priority": 0.98,
+      "identity_name": "和平精英"
+    },
+    "china_apps/mi_1393755.png": {
+      "priority": 0.98,
+      "identity_name": "金铲铲之战"
+    },
+    "china_games/ios_1478101301.png": {
+      "priority": 0.98,
+      "identity_name": "金铲铲之战"
+    },
+    "china_games/ios_1642894547.png": {
+      "priority": 0.9888888888888889,
+      "identity_name": "三角洲行动"
+    },
+    "china_apps/mi_1400770.png": {
+      "priority": 0.98,
+      "identity_name": "暗区突围"
+    },
+    "china_games/ios_1505445106.png": {
+      "priority": 0.98,
+      "identity_name": "暗区突围"
+    },
+    "china_games/ios_1580500427.png": {
+      "priority": 0.98,
+      "identity_name": "永劫无间"
+    },
+    "china_games/ios_1541570980.png": {
+      "priority": 0.98,
+      "identity_name": "逆水寒"
+    },
+    "china_games/ios_940547441.png": {
+      "priority": 0.98,
+      "identity_name": "梦幻西游"
+    },
+    "china_games/ios_6788287402.png": {
+      "priority": 0.98,
+      "identity_name": "梦幻西游"
+    },
+    "china_games_more/ios_1015364140.png": {
+      "priority": 0.98,
+      "identity_name": "大话西游"
+    },
+    "china_games_more/ios_6444670359.png": {
+      "priority": 0.98,
+      "identity_name": "大话西游"
+    },
+    "china_games/mi_1211540.png": {
+      "priority": 0.98,
+      "identity_name": "剑侠世界3"
+    },
+    "china_games/mi_809878.png": {
+      "priority": 0.98,
+      "identity_name": "天涯明月刀"
+    },
+    "china_games/mi_423767.png": {
+      "priority": 0.98,
+      "identity_name": "诛仙"
+    },
+    "china_games_more/ios_1088753863.png": {
+      "priority": 0.98,
+      "identity_name": "诛仙"
+    },
+    "china_games_more/ios_1033387365.png": {
+      "priority": 0.98,
+      "identity_name": "倩女幽魂"
+    },
+    "china_games_more/ios_1435567000.png": {
+      "priority": 0.98,
+      "identity_name": "明日之后"
+    },
+    "china_games/ios_909211092.png": {
+      "priority": 0.98,
+      "identity_name": "率土之滨"
+    },
+    "china_games_more/ios_1519945981.png": {
+      "priority": 0.98,
+      "identity_name": "万国觉醒"
+    },
+    "china_games_more/ios_6466232155.png": {
+      "priority": 0.98,
+      "identity_name": "三国谋定天下"
+    },
+    "china_games/ios_6478492012.png": {
+      "priority": 0.98,
+      "identity_name": "无尽冬日"
+    },
+    "china_games/ios_1544884479.png": {
+      "priority": 0.98,
+      "identity_name": "蛋仔派对"
+    },
+    "china_games_more/ios_1632344522.png": {
+      "priority": 0.98,
+      "identity_name": "元梦之星"
+    },
+    "china_games/ios_791532221.png": {
+      "priority": 0.98,
+      "identity_name": "开心消消乐"
+    },
+    "china_games/mi_58634.png": {
+      "priority": 0.98,
+      "identity_name": "开心消消乐"
+    },
+    "china_games/ios_446324234.png": {
+      "priority": 0.98,
+      "identity_name": "欢乐斗地主"
+    },
+    "china_games/ios_955396648.png": {
+      "priority": 0.98,
+      "identity_name": "火影忍者"
+    },
+    "china_games/mi_165428.png": {
+      "priority": 0.98,
+      "identity_name": "火影忍者"
+    },
+    "china_games/mi_685433.png": {
+      "priority": 0.98,
+      "identity_name": "火影忍者"
+    },
+    "china_apps/mi_121542.png": {
+      "priority": 0.98,
+      "identity_name": "穿越火线"
+    },
+    "china_games/ios_1042545880.png": {
+      "priority": 0.98,
+      "identity_name": "穿越火线"
+    },
+    "china_games/ios_945598289.png": {
+      "priority": 0.98,
+      "identity_name": "穿越火线"
+    },
+    "china_apps/mi_786701.png": {
+      "priority": 0.98,
+      "identity_name": "使命召唤手游"
+    },
+    "china_games/ios_1488410151.png": {
+      "priority": 0.98,
+      "identity_name": "使命召唤手游"
+    },
+    "china_apps/mi_1385006.png": {
+      "priority": 0.98,
+      "identity_name": "重返帝国"
+    },
+    "china_games_more/ios_1449701587.png": {
+      "priority": 0.98,
+      "identity_name": "无尽的拉格朗日"
+    },
+    "china_games/ios_1467190251.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "原神"
+    },
+    "china_games_more/ios_1523037824.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "崩坏：星穹铁道"
+    },
+    "china_games_more/ios_6475038985.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "崩坏：星穹铁道"
+    },
+    "china_games/mi_430981.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "崩坏3"
+    },
+    "china_games_more/ios_1143402987.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "崩坏3"
+    },
+    "china_games/ios_1606359076.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "绝区零"
+    },
+    "china_games_more/ios_1454663939.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "明日方舟"
+    },
+    "china_games_more/ios_6753859465.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "明日方舟：终末地"
+    },
+    "china_games_more/ios_6450693428.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "鸣潮"
+    },
+    "china_games/mi_870372.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "战双帕弥什"
+    },
+    "china_games_more/ios_1461695441.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "战双帕弥什"
+    },
+    "china_games/mi_453314.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "碧蓝航线"
+    },
+    "china_games_more/ios_6514281568.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "异环"
+    },
+    "china_games_more/ios_1439754823.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "光与夜之恋"
+    },
+    "china_games_more/ios_958022253.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "奇迹暖暖"
+    },
+    "china_games/mi_663423.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "闪耀暖暖"
+    },
+    "china_games/mi_851274.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "未定事件簿"
+    },
+    "china_games_more/ios_1507310279.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "未定事件簿"
+    },
+    "china_games_more/ios_1552333447.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "以闪亮之名"
+    },
+    "china_games_more/ios_6474127167.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "世界之外"
+    },
+    "china_games/mi_429987.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "命运冠位指定"
+    },
+    "china_games_more/ios_6467825646.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "胜利女神"
+    },
+    "china_games/mi_1159669.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "幻塔"
+    },
+    "china_games_more/ios_1620342430.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "绯色回响"
+    },
+    "china_games/mi_967501.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "偶像梦幻祭"
+    },
+    "china_games_more/ios_1495166402.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "偶像梦幻祭"
+    },
+    "china_games_more/ios_1554443522.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "世界计划"
+    },
+    "china_games_more/ios_1300107673.png": {
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic",
+      "classification": "User-defined domestic pool includes anime-style games; not a developer-country claim.",
+      "identity_name": "梦想协奏曲"
+    },
+    "china_apps/ios_6451407032.png": {
+      "priority": 0.9944444444444445
+    },
+    "china_apps/ios_6745890963.png": {
+      "priority": 0.9888888888888889
+    },
+    "china_apps/ios_6466733523.png": {
+      "priority": 0.9888888888888889
+    },
+    "china_apps/ios_1588080869.png": {
+      "priority": 0.9944444444444445
+    },
+    "china_apps/ios_1488854568.png": {
+      "priority": 0.95
+    },
+    "china_apps/ios_6761374913.png": {
+      "priority": 0.9888888888888889
+    },
+    "china_apps/ios_6756863766.png": {
+      "priority": 0.9777777777777777
+    },
+    "china_apps/ios_1503466530.png": {
+      "priority": 0.9833333333333333
+    },
+    "china_apps/ios_6752317272.png": {
+      "priority": 0.9722222222222222
+    },
+    "china_apps/ios_1319071502.png": {
+      "priority": 0.9833333333333333
+    },
+    "china_apps/ios_6749835845.png": {
+      "priority": 0.9666666666666667
+    },
+    "china_apps/ios_507097717.png": {
+      "priority": 0.9555555555555556
+    },
+    "china_apps/ios_1435602536.png": {
+      "priority": 0.9722222222222222
+    },
+    "china_apps/ios_399608199.png": {
+      "priority": 0.6444444444444444
+    },
+    "china_apps/ios_513829338.png": {
+      "priority": 0.9666666666666667
+    },
+    "china_apps/ios_554499054.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_6473782436.png": {
+      "priority": 0.9388888888888889
+    },
+    "china_apps/ios_6743828427.png": {
+      "priority": 0.55
+    },
+    "china_apps/ios_493489515.png": {
+      "priority": 0.5222222222222221
+    },
+    "china_apps/ios_518966501.png": {
+      "priority": 0.95
+    },
+    "china_apps/ios_6736794948.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_818237113.png": {
+      "priority": 0.9388888888888889
+    },
+    "china_apps/ios_1475199599.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_860384719.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_1571652872.png": {
+      "priority": 0.45
+    },
+    "china_games/ios_6812671122.png": {
+      "priority": 0.9833333333333333
+    },
+    "china_games/ios_1614798032.png": {
+      "priority": 0.9777777777777777
+    },
+    "china_games/ios_6535673811.png": {
+      "priority": 0.9611111111111111
+    },
+    "china_games/ios_6444717468.png": {
+      "priority": 0.9555555555555556
+    },
+    "china_games/ios_6757172630.png": {
+      "priority": 0.95
+    },
+    "china_games/ios_6503579813.png": {
+      "priority": 0.9222222222222223
+    },
+    "china_games/ios_1120536875.png": {
+      "priority": 0.8888888888888888
+    },
+    "china_games/ios_6812216260.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_games/ios_1000619473.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_games/ios_6475668638.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_games/ios_1344733855.png": {
+      "priority": 0.8388888888888889
+    },
+    "china_games/ios_6762196436.png": {
+      "priority": 0.8333333333333334
+    },
+    "china_games/ios_1455054000.png": {
+      "priority": 0.8277777777777777
+    },
+    "china_games/ios_1330863325.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_games/ios_6544797261.png": {
+      "priority": 0.7888888888888889
+    },
+    "china_games/ios_689180123.png": {
+      "priority": 0.7833333333333333
+    },
+    "china_games/ios_1612426573.png": {
+      "priority": 0.7777777777777778
+    },
+    "china_games/ios_6758614459.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_games/ios_1184159988.png": {
+      "priority": 0.75
+    },
+    "china_games/ios_6784163008.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_games/ios_1498874997.png": {
+      "priority": 0.7222222222222222
+    },
+    "china_games/ios_6758330501.png": {
+      "priority": 0.7111111111111111
+    },
+    "china_games/ios_6743786389.png": {
+      "priority": 0.7055555555555555
+    },
+    "china_games/ios_996509117.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_games/ios_407413403.png": {
+      "priority": 0.6777777777777778
+    },
+    "china_games/ios_1644374326.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_games/ios_1123876959.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_games/ios_654897098.png": {
+      "priority": 0.6555555555555556
+    },
+    "china_games/ios_6759896881.png": {
+      "priority": 0.65
+    },
+    "china_games/ios_493901993.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_games/ios_472885640.png": {
+      "priority": 0.6277777777777778
+    },
+    "china_games/ios_1305599559.png": {
+      "priority": 0.6222222222222222
+    },
+    "china_games/ios_6746321359.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_games/ios_6740756173.png": {
+      "priority": 0.6111111111111112
+    },
+    "china_games/ios_1454809109.png": {
+      "priority": 0.6
+    },
+    "china_games/ios_979859989.png": {
+      "priority": 0.5944444444444444
+    },
+    "china_games/ios_653350791.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_games/ios_1504236603.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_games/ios_6810632075.png": {
+      "priority": 0.5555555555555556
+    },
+    "china_games/ios_1570403558.png": {
+      "priority": 0.5333333333333333
+    },
+    "china_games/ios_6711336814.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_games/ios_1589930623.png": {
+      "priority": 0.5055555555555555
+    },
+    "china_games/ios_6752632961.png": {
+      "priority": 0.5
+    },
+    "china_games/ios_6478654994.png": {
+      "priority": 0.48888888888888893
+    },
+    "china_games/ios_548592311.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_games/ios_403941510.png": {
+      "priority": 0.4666666666666667
+    },
+    "china_games/ios_1019078390.png": {
+      "priority": 0.4555555555555556
+    },
+    "china_apps/ios_6504349705.png": {
+      "priority": 0.9277777777777778
+    },
+    "china_apps/ios_1102305688.png": {
+      "priority": 0.9166666666666666
+    },
+    "china_apps/ios_1458698038.png": {
+      "priority": 0.8888888888888888
+    },
+    "china_apps/ios_1643479223.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_6474118091.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_apps/ios_1147452377.png": {
+      "priority": 0.8666666666666667
+    },
+    "china_apps/ios_1319788668.png": {
+      "priority": 0.8611111111111112
+    },
+    "china_apps/ios_6444553957.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_1098549780.png": {
+      "priority": 0.8277777777777777
+    },
+    "china_apps/ios_1491007869.png": {
+      "priority": 0.8166666666666667
+    },
+    "china_apps/ios_1092084634.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_apps/ios_6446477593.png": {
+      "priority": 0.7833333333333333
+    },
+    "china_apps/ios_6751496092.png": {
+      "priority": 0.7722222222222223
+    },
+    "china_apps/ios_1330927814.png": {
+      "priority": 0.7666666666666666
+    },
+    "china_apps/ios_6759644119.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_6683302989.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_apps/ios_6504797905.png": {
+      "priority": 0.7333333333333334
+    },
+    "china_apps/ios_6673908449.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_1544429501.png": {
+      "priority": 0.7111111111111111
+    },
+    "china_apps/ios_6797432441.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_apps/ios_6822140923.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_1372411552.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_1547909857.png": {
+      "priority": 0.6611111111111111
+    },
+    "china_apps/ios_6446166926.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_1665624645.png": {
+      "priority": 0.6444444444444444
+    },
+    "china_apps/ios_1642306791.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_apps/ios_1116038378.png": {
+      "priority": 0.6222222222222222
+    },
+    "china_apps/ios_1116013197.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_1403293252.png": {
+      "priority": 0.6111111111111112
+    },
+    "china_apps/ios_1544427616.png": {
+      "priority": 0.6
+    },
+    "china_apps/ios_1254300620.png": {
+      "priority": 0.5944444444444444
+    },
+    "china_apps/ios_1586116399.png": {
+      "priority": 0.5888888888888889
+    },
+    "china_apps/ios_6813363287.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_apps/ios_1658269407.png": {
+      "priority": 0.5777777777777777
+    },
+    "china_apps/ios_1600014361.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_6738859278.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_419805549.png": {
+      "priority": 0.5555555555555556
+    },
+    "china_apps/ios_1410120498.png": {
+      "priority": 0.55
+    },
+    "china_apps/ios_1519407428.png": {
+      "priority": 0.5388888888888889
+    },
+    "china_apps/ios_1477291324.png": {
+      "priority": 0.5333333333333333
+    },
+    "china_apps/ios_6749688592.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_1495752671.png": {
+      "priority": 0.5222222222222221
+    },
+    "china_apps/ios_1452958918.png": {
+      "priority": 0.5
+    },
+    "china_apps/ios_1548249986.png": {
+      "priority": 0.4833333333333333
+    },
+    "china_apps/ios_6505044792.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_apps/ios_1553716384.png": {
+      "priority": 0.46111111111111114
+    },
+    "china_apps/ios_1337474440.png": {
+      "priority": 0.4555555555555556
+    },
+    "china_apps/ios_1593350223.png": {
+      "priority": 0.45
+    },
+    "china_apps/ios_790133739.png": {
+      "priority": 0.95
+    },
+    "china_apps/ios_448165862.png": {
+      "priority": 0.9444444444444444
+    },
+    "china_apps/ios_1501289327.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_1492978492.png": {
+      "priority": 0.9277777777777778
+    },
+    "china_apps/ios_1336435685.png": {
+      "priority": 0.9222222222222223
+    },
+    "china_apps/ios_6467381750.png": {
+      "priority": 0.9166666666666666
+    },
+    "china_apps/ios_1012317813.png": {
+      "priority": 0.9111111111111111
+    },
+    "china_apps/ios_1359055423.png": {
+      "priority": 0.9055555555555556
+    },
+    "china_apps/ios_1475216610.png": {
+      "priority": 0.8833333333333333
+    },
+    "china_apps/ios_1468244744.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_1508067856.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_apps/ios_1298912284.png": {
+      "priority": 0.8611111111111112
+    },
+    "china_apps/ios_1618393866.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_494514224.png": {
+      "priority": 0.85
+    },
+    "china_apps/ios_6751828209.png": {
+      "priority": 0.8444444444444444
+    },
+    "china_apps/ios_1661048017.png": {
+      "priority": 0.8388888888888889
+    },
+    "china_apps/ios_1516567721.png": {
+      "priority": 0.8333333333333334
+    },
+    "china_apps/ios_6505045072.png": {
+      "priority": 0.8222222222222222
+    },
+    "china_apps/ios_1286964732.png": {
+      "priority": 0.8166666666666667
+    },
+    "china_apps/ios_685777413.png": {
+      "priority": 0.8111111111111111
+    },
+    "china_apps/ios_6479338276.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_apps/ios_1217374522.png": {
+      "priority": 0.8
+    },
+    "china_apps/ios_1472343551.png": {
+      "priority": 0.7944444444444445
+    },
+    "china_apps/ios_1363039920.png": {
+      "priority": 0.7888888888888889
+    },
+    "china_apps/ios_6738899698.png": {
+      "priority": 0.7833333333333333
+    },
+    "china_apps/ios_1584062834.png": {
+      "priority": 0.7777777777777778
+    },
+    "china_apps/ios_6450926364.png": {
+      "priority": 0.7611111111111111
+    },
+    "china_apps/ios_1465566275.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_apps/ios_1451025748.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_6467084338.png": {
+      "priority": 0.7333333333333334
+    },
+    "china_apps/ios_1094615747.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_427941017.png": {
+      "priority": 0.7222222222222222
+    },
+    "china_apps/ios_1027664387.png": {
+      "priority": 0.7111111111111111
+    },
+    "china_apps/ios_609377731.png": {
+      "priority": 0.7055555555555555
+    },
+    "china_apps/ios_6759904999.png": {
+      "priority": 0.7
+    },
+    "china_apps/ios_6446309235.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_apps/ios_1443985059.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_6763211474.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_1086944243.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_1493053100.png": {
+      "priority": 0.6611111111111111
+    },
+    "china_apps/ios_1548184995.png": {
+      "priority": 0.6555555555555556
+    },
+    "china_apps/ios_6760329863.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_1281434850.png": {
+      "priority": 0.6444444444444444
+    },
+    "china_apps/ios_6793954622.png": {
+      "priority": 0.6388888888888888
+    },
+    "china_apps/ios_987570993.png": {
+      "priority": 0.6111111111111112
+    },
+    "china_apps/ios_6503333835.png": {
+      "priority": 0.6055555555555556
+    },
+    "china_apps/ios_6451192158.png": {
+      "priority": 0.6
+    },
+    "china_apps/ios_988396858.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_apps/ios_1641879610.png": {
+      "priority": 0.5777777777777777
+    },
+    "china_apps/ios_1673241343.png": {
+      "priority": 0.5722222222222222
+    },
+    "china_apps/ios_6463076337.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_978985106.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_1448015554.png": {
+      "priority": 0.5555555555555556
+    },
+    "china_apps/ios_1581548488.png": {
+      "priority": 0.55
+    },
+    "china_apps/ios_1267208127.png": {
+      "priority": 0.5444444444444445
+    },
+    "china_apps/ios_1369910370.png": {
+      "priority": 0.5388888888888889
+    },
+    "china_apps/ios_1448999159.png": {
+      "priority": 0.5333333333333333
+    },
+    "china_apps/ios_6476132820.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_1436140934.png": {
+      "priority": 0.5222222222222221
+    },
+    "china_apps/ios_1581561696.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_apps/ios_1254319568.png": {
+      "priority": 0.5111111111111111
+    },
+    "china_apps/ios_6468895305.png": {
+      "priority": 0.49444444444444446
+    },
+    "china_apps/ios_1564710919.png": {
+      "priority": 0.48888888888888893
+    },
+    "china_apps/ios_1439884991.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_apps/ios_6810573823.png": {
+      "priority": 0.9111111111111111
+    },
+    "china_apps/ios_920728033.png": {
+      "priority": 0.9
+    },
+    "china_apps/ios_897003024.png": {
+      "priority": 0.8944444444444445
+    },
+    "china_apps/ios_1481740550.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_apps/ios_6737188438.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_1370780836.png": {
+      "priority": 0.8388888888888889
+    },
+    "china_apps/ios_1546947240.png": {
+      "priority": 0.8333333333333334
+    },
+    "china_apps/ios_6503070246.png": {
+      "priority": 0.8166666666666667
+    },
+    "china_apps/ios_6479516779.png": {
+      "priority": 0.8111111111111111
+    },
+    "china_apps/ios_1269000865.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_apps/ios_6761359108.png": {
+      "priority": 0.8
+    },
+    "china_apps/ios_1494661473.png": {
+      "priority": 0.7888888888888889
+    },
+    "china_apps/ios_576337924.png": {
+      "priority": 0.7833333333333333
+    },
+    "china_apps/ios_732618720.png": {
+      "priority": 0.7666666666666666
+    },
+    "china_apps/ios_6771667654.png": {
+      "priority": 0.7611111111111111
+    },
+    "china_apps/ios_6768513331.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_apps/ios_1242689729.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_1359104615.png": {
+      "priority": 0.7444444444444445
+    },
+    "china_apps/ios_6747420043.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_apps/ios_6670356261.png": {
+      "priority": 0.7333333333333334
+    },
+    "china_apps/ios_1322828267.png": {
+      "priority": 0.7222222222222222
+    },
+    "china_apps/ios_1113872181.png": {
+      "priority": 0.7111111111111111
+    },
+    "china_apps/ios_1026768962.png": {
+      "priority": 0.6944444444444444
+    },
+    "china_apps/ios_878550740.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_apps/ios_6446882473.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_1559475886.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_6761400733.png": {
+      "priority": 0.6611111111111111
+    },
+    "china_apps/ios_6781198616.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_522700349.png": {
+      "priority": 0.6444444444444444
+    },
+    "china_apps/ios_6670379647.png": {
+      "priority": 0.6388888888888888
+    },
+    "china_apps/ios_6756405810.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_apps/ios_1638681851.png": {
+      "priority": 0.6222222222222222
+    },
+    "china_apps/ios_6532591718.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_859962702.png": {
+      "priority": 0.6
+    },
+    "china_apps/ios_6783256991.png": {
+      "priority": 0.5944444444444444
+    },
+    "china_apps/ios_1263789061.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_apps/ios_1577139874.png": {
+      "priority": 0.5722222222222222
+    },
+    "china_apps/ios_6761752687.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_1570595535.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_458270120.png": {
+      "priority": 0.5444444444444445
+    },
+    "china_apps/ios_1454602933.png": {
+      "priority": 0.5388888888888889
+    },
+    "china_apps/ios_6755461346.png": {
+      "priority": 0.5222222222222221
+    },
+    "china_apps/ios_6738371114.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_apps/ios_6478196963.png": {
+      "priority": 0.5111111111111111
+    },
+    "china_apps/ios_6739250870.png": {
+      "priority": 0.5055555555555555
+    },
+    "china_apps/ios_1403359736.png": {
+      "priority": 0.48888888888888893
+    },
+    "china_apps/ios_1214302139.png": {
+      "priority": 0.4666666666666667
+    },
+    "china_apps/ios_6459365360.png": {
+      "priority": 0.46111111111111114
+    },
+    "china_apps/ios_1171836473.png": {
+      "priority": 0.4555555555555556
+    },
+    "china_apps/ios_6497714349.png": {
+      "priority": 0.45
+    },
+    "china_apps/ios_592331499.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_6762724921.png": {
+      "priority": 0.9277777777777778
+    },
+    "china_apps/ios_1594288016.png": {
+      "priority": 0.9111111111111111
+    },
+    "china_apps/ios_637428894.png": {
+      "priority": 0.9055555555555556
+    },
+    "china_apps/ios_6751240418.png": {
+      "priority": 0.8944444444444445
+    },
+    "china_apps/ios_1441942700.png": {
+      "priority": 0.8888888888888888
+    },
+    "china_apps/ios_6743614900.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_913947918.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_apps/ios_1195860596.png": {
+      "priority": 0.8666666666666667
+    },
+    "china_apps/ios_6757261831.png": {
+      "priority": 0.8611111111111112
+    },
+    "china_apps/ios_6753741715.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_6446305602.png": {
+      "priority": 0.85
+    },
+    "china_apps/ios_6746231056.png": {
+      "priority": 0.8444444444444444
+    },
+    "china_apps/ios_1530922601.png": {
+      "priority": 0.8333333333333334
+    },
+    "china_apps/ios_1518226677.png": {
+      "priority": 0.8277777777777777
+    },
+    "china_apps/ios_1489090807.png": {
+      "priority": 0.8111111111111111
+    },
+    "china_apps/ios_6446897199.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_apps/ios_6798168719.png": {
+      "priority": 0.7944444444444445
+    },
+    "china_apps/ios_1375390276.png": {
+      "priority": 0.7888888888888889
+    },
+    "china_apps/ios_6803455206.png": {
+      "priority": 0.7666666666666666
+    },
+    "china_apps/ios_6745937404.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_apps/ios_1602677577.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_apps/ios_1105804369.png": {
+      "priority": 0.7333333333333334
+    },
+    "china_apps/ios_6749844980.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_1616113199.png": {
+      "priority": 0.7166666666666667
+    },
+    "china_apps/ios_6475072892.png": {
+      "priority": 0.7055555555555555
+    },
+    "china_apps/ios_6783244730.png": {
+      "priority": 0.7
+    },
+    "china_apps/ios_6450196499.png": {
+      "priority": 0.6944444444444444
+    },
+    "china_apps/ios_1125855154.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_apps/ios_1564619940.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_955253735.png": {
+      "priority": 0.6777777777777778
+    },
+    "china_apps/ios_6475798979.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_6751881373.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_6760530112.png": {
+      "priority": 0.6611111111111111
+    },
+    "china_apps/ios_1459953293.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_1615744942.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_apps/ios_691828408.png": {
+      "priority": 0.6277777777777778
+    },
+    "china_apps/ios_1061534032.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_6760764666.png": {
+      "priority": 0.5944444444444444
+    },
+    "china_apps/ios_847334708.png": {
+      "priority": 0.5888888888888889
+    },
+    "china_apps/ios_1032277907.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_apps/ios_766146107.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_6822113578.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_724295527.png": {
+      "priority": 0.55
+    },
+    "china_apps/ios_1570093460.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_917629382.png": {
+      "priority": 0.5222222222222221
+    },
+    "china_apps/ios_6670541842.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_apps/ios_6790324671.png": {
+      "priority": 0.5111111111111111
+    },
+    "china_apps/ios_1623289549.png": {
+      "priority": 0.5055555555555555
+    },
+    "china_apps/ios_1598312797.png": {
+      "priority": 0.49444444444444446
+    },
+    "china_apps/ios_1552875358.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_apps/ios_6761677727.png": {
+      "priority": 0.4722222222222222
+    },
+    "china_apps/ios_6758073790.png": {
+      "priority": 0.46111111111111114
+    },
+    "china_apps/ios_1513916989.png": {
+      "priority": 0.4555555555555556
+    },
+    "china_apps/ios_1569376400.png": {
+      "priority": 0.45
+    },
+    "china_apps/ios_1488894313.png": {
+      "priority": 0.9722222222222222
+    },
+    "china_apps/ios_1260489449.png": {
+      "priority": 0.9666666666666667
+    },
+    "china_apps/ios_6756648251.png": {
+      "priority": 0.9611111111111111
+    },
+    "china_apps/ios_1521225186.png": {
+      "priority": 0.95
+    },
+    "china_apps/ios_6479289916.png": {
+      "priority": 0.9444444444444444
+    },
+    "china_apps/ios_923912459.png": {
+      "priority": 0.9388888888888889
+    },
+    "china_apps/ios_6752596179.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_1138236198.png": {
+      "priority": 0.9277777777777778
+    },
+    "china_apps/ios_1148465254.png": {
+      "priority": 0.9
+    },
+    "china_apps/ios_6497651310.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_1596854072.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_apps/ios_1536109600.png": {
+      "priority": 0.8611111111111112
+    },
+    "china_apps/ios_1492418551.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_6761310915.png": {
+      "priority": 0.8222222222222222
+    },
+    "china_apps/ios_6502927127.png": {
+      "priority": 0.8166666666666667
+    },
+    "china_apps/ios_973743727.png": {
+      "priority": 0.7944444444444445
+    },
+    "china_apps/ios_1493930943.png": {
+      "priority": 0.7777777777777778
+    },
+    "china_apps/ios_6757452175.png": {
+      "priority": 0.7722222222222223
+    },
+    "china_apps/ios_1527690831.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_apps/ios_1449599979.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_979095986.png": {
+      "priority": 0.7333333333333334
+    },
+    "china_apps/ios_6757587098.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_1403263259.png": {
+      "priority": 0.7222222222222222
+    },
+    "china_apps/ios_531263194.png": {
+      "priority": 0.7166666666666667
+    },
+    "china_apps/ios_6503723951.png": {
+      "priority": 0.7111111111111111
+    },
+    "china_apps/ios_1617382945.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_1609591447.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_1522144157.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_1577469860.png": {
+      "priority": 0.6388888888888888
+    },
+    "china_apps/ios_1185380895.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_apps/ios_1493256837.png": {
+      "priority": 0.6222222222222222
+    },
+    "china_apps/ios_473613148.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_6450210894.png": {
+      "priority": 0.6055555555555556
+    },
+    "china_apps/ios_6774548921.png": {
+      "priority": 0.5722222222222222
+    },
+    "china_apps/ios_6744818894.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_1523632955.png": {
+      "priority": 0.5555555555555556
+    },
+    "china_apps/ios_1401506782.png": {
+      "priority": 0.5444444444444445
+    },
+    "china_apps/ios_6642651466.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_468623917.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_apps/ios_1364398984.png": {
+      "priority": 0.5111111111111111
+    },
+    "china_apps/ios_6753861080.png": {
+      "priority": 0.5055555555555555
+    },
+    "china_apps/ios_6780391796.png": {
+      "priority": 0.49444444444444446
+    },
+    "china_apps/ios_6811856734.png": {
+      "priority": 0.4722222222222222
+    },
+    "china_apps/ios_1505107595.png": {
+      "priority": 0.4666666666666667
+    },
+    "china_apps/ios_6469281582.png": {
+      "priority": 0.46111111111111114
+    },
+    "china_apps/ios_6775810689.png": {
+      "priority": 0.4555555555555556
+    },
+    "china_apps/ios_1232131998.png": {
+      "priority": 0.9611111111111111
+    },
+    "china_apps/ios_796339836.png": {
+      "priority": 0.9444444444444444
+    },
+    "china_apps/ios_959468399.png": {
+      "priority": 0.9388888888888889
+    },
+    "china_apps/ios_1438998315.png": {
+      "priority": 0.9333333333333333
+    },
+    "china_apps/ios_986217056.png": {
+      "priority": 0.9111111111111111
+    },
+    "china_apps/ios_990531994.png": {
+      "priority": 0.9
+    },
+    "china_apps/ios_6764722172.png": {
+      "priority": 0.8944444444444445
+    },
+    "china_apps/ios_1059930957.png": {
+      "priority": 0.8888888888888888
+    },
+    "china_apps/ios_6749835625.png": {
+      "priority": 0.8833333333333333
+    },
+    "china_apps/ios_756771906.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_6758988294.png": {
+      "priority": 0.8722222222222222
+    },
+    "china_apps/ios_1472477795.png": {
+      "priority": 0.8666666666666667
+    },
+    "china_apps/ios_1462875428.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_1270594280.png": {
+      "priority": 0.85
+    },
+    "china_apps/ios_1266194141.png": {
+      "priority": 0.8388888888888889
+    },
+    "china_apps/ios_1061034377.png": {
+      "priority": 0.8333333333333334
+    },
+    "china_apps/ios_6788687745.png": {
+      "priority": 0.8
+    },
+    "china_apps/ios_910260096.png": {
+      "priority": 0.7944444444444445
+    },
+    "china_apps/ios_1570776721.png": {
+      "priority": 0.7888888888888889
+    },
+    "china_apps/ios_1093150126.png": {
+      "priority": 0.7833333333333333
+    },
+    "china_apps/ios_1370245656.png": {
+      "priority": 0.7777777777777778
+    },
+    "china_apps/ios_1437733193.png": {
+      "priority": 0.7722222222222223
+    },
+    "china_apps/ios_6781627217.png": {
+      "priority": 0.7666666666666666
+    },
+    "china_apps/ios_6473663234.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_1597440048.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_apps/ios_1134025036.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_1494088874.png": {
+      "priority": 0.7166666666666667
+    },
+    "china_apps/ios_1566835977.png": {
+      "priority": 0.7055555555555555
+    },
+    "china_apps/ios_1534020402.png": {
+      "priority": 0.7
+    },
+    "china_apps/ios_6502801635.png": {
+      "priority": 0.6944444444444444
+    },
+    "china_apps/ios_1054941362.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_apps/ios_1586446008.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_405882753.png": {
+      "priority": 0.6777777777777778
+    },
+    "china_apps/ios_1312736668.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_6804561517.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_6445883350.png": {
+      "priority": 0.6611111111111111
+    },
+    "china_apps/ios_6466733793.png": {
+      "priority": 0.6555555555555556
+    },
+    "china_apps/ios_6744060866.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_1463539099.png": {
+      "priority": 0.6444444444444444
+    },
+    "china_apps/ios_1158753204.png": {
+      "priority": 0.6277777777777778
+    },
+    "china_apps/ios_998249583.png": {
+      "priority": 0.6222222222222222
+    },
+    "china_apps/ios_1436429152.png": {
+      "priority": 0.6111111111111112
+    },
+    "china_apps/ios_1552808896.png": {
+      "priority": 0.6055555555555556
+    },
+    "china_apps/ios_1383652311.png": {
+      "priority": 0.6
+    },
+    "china_apps/ios_1033046018.png": {
+      "priority": 0.5888888888888889
+    },
+    "china_apps/ios_1391666843.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_apps/ios_1540537249.png": {
+      "priority": 0.5777777777777777
+    },
+    "china_apps/ios_384399758.png": {
+      "priority": 0.5722222222222222
+    },
+    "china_apps/ios_1331318404.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_6776634328.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_1049653078.png": {
+      "priority": 0.5333333333333333
+    },
+    "china_apps/ios_1102665570.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_1499803862.png": {
+      "priority": 0.5055555555555555
+    },
+    "china_apps/ios_6778651461.png": {
+      "priority": 0.5
+    },
+    "china_apps/ios_1446696766.png": {
+      "priority": 0.49444444444444446
+    },
+    "china_apps/ios_1490809012.png": {
+      "priority": 0.48888888888888893
+    },
+    "china_apps/ios_6753862358.png": {
+      "priority": 0.4833333333333333
+    },
+    "china_apps/ios_6444961857.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_apps/ios_1234889389.png": {
+      "priority": 0.4722222222222222
+    },
+    "china_apps/ios_1155786023.png": {
+      "priority": 0.4666666666666667
+    },
+    "china_apps/ios_6451242037.png": {
+      "priority": 0.9388888888888889
+    },
+    "china_apps/ios_871095743.png": {
+      "priority": 0.8944444444444445
+    },
+    "china_apps/ios_504274740.png": {
+      "priority": 0.8888888888888888
+    },
+    "china_apps/ios_6502927070.png": {
+      "priority": 0.8833333333333333
+    },
+    "china_apps/ios_6756595533.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_1054861613.png": {
+      "priority": 0.8611111111111112
+    },
+    "china_apps/ios_6763489795.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_1134496215.png": {
+      "priority": 0.85
+    },
+    "china_apps/ios_801599025.png": {
+      "priority": 0.8388888888888889
+    },
+    "china_apps/ios_6796651918.png": {
+      "priority": 0.8333333333333334
+    },
+    "china_apps/ios_475666808.png": {
+      "priority": 0.8222222222222222
+    },
+    "china_apps/ios_863882795.png": {
+      "priority": 0.8166666666666667
+    },
+    "china_apps/ios_6744434275.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_apps/ios_6758344200.png": {
+      "priority": 0.8
+    },
+    "china_apps/ios_1052455390.png": {
+      "priority": 0.7944444444444445
+    },
+    "china_apps/ios_6793779218.png": {
+      "priority": 0.7833333333333333
+    },
+    "china_apps/ios_6738686275.png": {
+      "priority": 0.7722222222222223
+    },
+    "china_apps/ios_1460786904.png": {
+      "priority": 0.7666666666666666
+    },
+    "china_apps/ios_1338769645.png": {
+      "priority": 0.7611111111111111
+    },
+    "china_apps/ios_1493894094.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_apps/ios_6789546771.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_1156439976.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_apps/ios_6741334696.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_1314769817.png": {
+      "priority": 0.7222222222222222
+    },
+    "china_apps/ios_1664036357.png": {
+      "priority": 0.7166666666666667
+    },
+    "china_apps/ios_6757699565.png": {
+      "priority": 0.7111111111111111
+    },
+    "china_apps/ios_6799013946.png": {
+      "priority": 0.7055555555555555
+    },
+    "china_apps/ios_1448346035.png": {
+      "priority": 0.7
+    },
+    "china_apps/ios_6475000292.png": {
+      "priority": 0.6944444444444444
+    },
+    "china_apps/ios_6757843572.png": {
+      "priority": 0.6888888888888889
+    },
+    "china_apps/ios_1324408585.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_6447329259.png": {
+      "priority": 0.6777777777777778
+    },
+    "china_apps/ios_6791060014.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_458587755.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_6746846654.png": {
+      "priority": 0.65
+    },
+    "china_apps/ios_6504548456.png": {
+      "priority": 0.6388888888888888
+    },
+    "china_apps/ios_894974941.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_apps/ios_385285922.png": {
+      "priority": 0.6277777777777778
+    },
+    "china_apps/ios_6755945551.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_6785391842.png": {
+      "priority": 0.6111111111111112
+    },
+    "china_apps/ios_1531247442.png": {
+      "priority": 0.6055555555555556
+    },
+    "china_apps/ios_6755711041.png": {
+      "priority": 0.5944444444444444
+    },
+    "china_apps/ios_6771044387.png": {
+      "priority": 0.5888888888888889
+    },
+    "china_apps/ios_1092031003.png": {
+      "priority": 0.5777777777777777
+    },
+    "china_apps/ios_6770924332.png": {
+      "priority": 0.5722222222222222
+    },
+    "china_apps/ios_919503025.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_566813949.png": {
+      "priority": 0.5555555555555556
+    },
+    "china_apps/ios_6480106163.png": {
+      "priority": 0.55
+    },
+    "china_apps/ios_6783280397.png": {
+      "priority": 0.5444444444444445
+    },
+    "china_apps/ios_438426078.png": {
+      "priority": 0.5388888888888889
+    },
+    "china_apps/ios_6768287800.png": {
+      "priority": 0.5333333333333333
+    },
+    "china_apps/ios_6480252695.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_982817844.png": {
+      "priority": 0.5222222222222221
+    },
+    "china_apps/ios_6738164876.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_apps/ios_433126583.png": {
+      "priority": 0.5111111111111111
+    },
+    "china_apps/ios_746925035.png": {
+      "priority": 0.5055555555555555
+    },
+    "china_apps/ios_6761878548.png": {
+      "priority": 0.5
+    },
+    "china_apps/ios_1640474318.png": {
+      "priority": 0.49444444444444446
+    },
+    "china_apps/ios_1511854315.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_apps/ios_1628240345.png": {
+      "priority": 0.4722222222222222
+    },
+    "china_apps/ios_1135798414.png": {
+      "priority": 0.4555555555555556
+    },
+    "china_apps/ios_6778716728.png": {
+      "priority": 0.45
+    },
+    "china_apps/ios_1509434274.png": {
+      "priority": 0.45
+    },
+    "china_apps/ios_6737541723.png": {
+      "priority": 0.9277777777777778
+    },
+    "china_apps/ios_943708006.png": {
+      "priority": 0.9222222222222223
+    },
+    "china_apps/ios_1448831879.png": {
+      "priority": 0.9166666666666666
+    },
+    "china_apps/ios_1600482450.png": {
+      "priority": 0.9111111111111111
+    },
+    "china_apps/ios_875177200.png": {
+      "priority": 0.9055555555555556
+    },
+    "china_apps/ios_1488709429.png": {
+      "priority": 0.9
+    },
+    "china_apps/ios_1369708325.png": {
+      "priority": 0.8944444444444445
+    },
+    "china_apps/ios_451400917.png": {
+      "priority": 0.8888888888888888
+    },
+    "china_apps/ios_1369798264.png": {
+      "priority": 0.8833333333333333
+    },
+    "china_apps/ios_1024958046.png": {
+      "priority": 0.8777777777777778
+    },
+    "china_apps/ios_427457043.png": {
+      "priority": 0.8611111111111112
+    },
+    "china_apps/ios_933106331.png": {
+      "priority": 0.8555555555555556
+    },
+    "china_apps/ios_1455432631.png": {
+      "priority": 0.85
+    },
+    "china_apps/ios_6444147461.png": {
+      "priority": 0.8222222222222222
+    },
+    "china_apps/ios_1587662715.png": {
+      "priority": 0.8166666666666667
+    },
+    "china_apps/ios_1116025300.png": {
+      "priority": 0.8055555555555556
+    },
+    "china_apps/ios_518213356.png": {
+      "priority": 0.7888888888888889
+    },
+    "china_apps/ios_1089890435.png": {
+      "priority": 0.7777777777777778
+    },
+    "china_apps/ios_1060362098.png": {
+      "priority": 0.7722222222222223
+    },
+    "china_apps/ios_650686755.png": {
+      "priority": 0.7666666666666666
+    },
+    "china_apps/ios_974534776.png": {
+      "priority": 0.7555555555555555
+    },
+    "china_apps/ios_1571094548.png": {
+      "priority": 0.75
+    },
+    "china_apps/ios_1170982696.png": {
+      "priority": 0.7388888888888889
+    },
+    "china_apps/ios_445573854.png": {
+      "priority": 0.7277777777777779
+    },
+    "china_apps/ios_1262351972.png": {
+      "priority": 0.7166666666666667
+    },
+    "china_apps/ios_6761981862.png": {
+      "priority": 0.7055555555555555
+    },
+    "china_apps/ios_6462783270.png": {
+      "priority": 0.7
+    },
+    "china_apps/ios_1442757335.png": {
+      "priority": 0.6833333333333333
+    },
+    "china_apps/ios_1027275974.png": {
+      "priority": 0.6722222222222223
+    },
+    "china_apps/ios_1558604056.png": {
+      "priority": 0.6666666666666667
+    },
+    "china_apps/ios_593469119.png": {
+      "priority": 0.6611111111111111
+    },
+    "china_apps/ios_1322331084.png": {
+      "priority": 0.6555555555555556
+    },
+    "china_apps/ios_1347534835.png": {
+      "priority": 0.6444444444444444
+    },
+    "china_apps/ios_503451073.png": {
+      "priority": 0.6333333333333333
+    },
+    "china_apps/ios_1510195889.png": {
+      "priority": 0.6277777777777778
+    },
+    "china_apps/ios_591584458.png": {
+      "priority": 0.6166666666666667
+    },
+    "china_apps/ios_914399672.png": {
+      "priority": 0.6055555555555556
+    },
+    "china_apps/ios_1267714436.png": {
+      "priority": 0.5888888888888889
+    },
+    "china_apps/ios_1486549740.png": {
+      "priority": 0.5833333333333333
+    },
+    "china_apps/ios_1065178761.png": {
+      "priority": 0.5777777777777777
+    },
+    "china_apps/ios_1467168365.png": {
+      "priority": 0.5722222222222222
+    },
+    "china_apps/ios_6746192256.png": {
+      "priority": 0.5666666666666667
+    },
+    "china_apps/ios_6471650035.png": {
+      "priority": 0.5611111111111111
+    },
+    "china_apps/ios_6759079364.png": {
+      "priority": 0.5555555555555556
+    },
+    "china_apps/ios_1541038932.png": {
+      "priority": 0.5444444444444445
+    },
+    "china_apps/ios_452176796.png": {
+      "priority": 0.5388888888888889
+    },
+    "china_apps/ios_1291298891.png": {
+      "priority": 0.5277777777777778
+    },
+    "china_apps/ios_6804731460.png": {
+      "priority": 0.5166666666666666
+    },
+    "china_apps/ios_1584044872.png": {
+      "priority": 0.5111111111111111
+    },
+    "china_apps/ios_1510202387.png": {
+      "priority": 0.48888888888888893
+    },
+    "china_apps/ios_1212182562.png": {
+      "priority": 0.4833333333333333
+    },
+    "china_apps/ios_1560760961.png": {
+      "priority": 0.47777777777777775
+    },
+    "china_apps/ios_1067740478.png": {
+      "priority": 0.4722222222222222
+    },
+    "china_apps/ios_6752552675.png": {
+      "priority": 0.4666666666666667
+    },
+    "china_apps/ios_6470703265.png": {
+      "priority": 0.46111111111111114
+    },
+    "china_apps/ios_1089046205.png": {
+      "priority": 0.45
+    },
+    "china_anime_games/ios_1590274853.png": {
+      "identity_name": "少女前线2",
+      "priority": 0.98,
+      "category": "anime_game",
+      "curated_group": "domestic"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "downloaded": 18293,
+  "unique": 18046,
+  "variants": 36092,
+  "rejected": 0,
+  "tile_size": 32,
+  "groups": {
+    "domestic": 5209,
+    "steam": 785,
+    "general": 12052
+  },
+  "identities": 9709,
+  "group_capacities": {
+    "domestic": 4824,
+    "steam": 785,
+    "general": 4100
+  },
+  "same_frame_unique": true,
+  "curated_identities": 723,
+  "rejected_files": []
+}
