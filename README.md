@@ -24,7 +24,7 @@
 
 ### 方式一：便携版（推荐）
 
-1. 从 Release 下载 `图标映像_便携版.zip`
+1. 从 [Release](https://github.com/chadaidai01/icon-mosaic/releases/latest) 下载 `IconMosaic-windows-x64.zip`
 2. 完整解压（保留旁边的 `_internal` 文件夹）
 3. 双击 `图标映像.exe`
 
