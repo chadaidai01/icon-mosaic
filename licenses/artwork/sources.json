@@ -12,5 +12,23 @@
     "commit": "1d65d45a42e6323b54b8096967b1ea4b65321f97",
     "license": "CC-BY-4.0",
     "downloaded_files": 7786
+  },
+  {
+    "collection": "Steam popular refresh",
+    "retrieved": "2026-10-28",
+    "rankings": [
+      "https://store.steampowered.com/charts/mostplayed",
+      "https://store.steampowered.com/charts/topselling/global"
+    ],
+    "new_files": 337,
+    "metadata": "https://api.steamcmd.net/",
+    "artwork": "https://shared.akamai.steamstatic.com/community_assets/images/apps/",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "collection": "Preserved prior-release icons",
+    "files": 53,
+    "source": "https://github.com/chadaidai01/icon-mosaic/tree/b025902",
+    "note": "Retained prior-release artwork and identity metadata while merging the new Steam icons."
   }
 ]

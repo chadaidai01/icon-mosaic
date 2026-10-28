@@ -157,7 +157,7 @@ class App(tk.Tk):
         row = tk.Frame(side, bg=BG)
         row.pack(fill='x', pady=7)
         ttk.Button(row, text='撤销上一个', command=self.undo_mask).pack(side='left', fill='x', expand=True)
-        ttk.Button(row, text='清空', command=self.clear_masks).pack(side='left', padx=(6, 0))
+        ttk.Button(row, text='清空全部选区', command=self.clear_masks).pack(side='left', padx=(6, 0))
         self.mask_label = self.label(side, '已选 0 个区域', 9, MUTED)
         self.mask_label.pack(anchor='w')
         self.label(side, '只处理固定位置的台标、账号和水印；框选后会自动刷新预览。', 9, MUTED, wraplength=250, justify='left').pack(anchor='w', pady=(4, 0))

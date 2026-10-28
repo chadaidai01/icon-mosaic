@@ -5050,5 +5050,449 @@
     "file": "china_games/steam_838350.png",
     "sha256": "603f176ead16f18c5c8c578aec71997f42d177cb0c19f419350101b01505e728",
     "rights": "Original game artwork; copyright and trademark retained by rights holders."
+  },
+  {
+    "appid": "992300",
+    "name": "嗜血印 Bloody Spell",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=0&count=100&category1=998&infinite=1",
+        "rank": 61,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_992300",
+    "group": "china_games",
+    "file": "china_games/steam_992300.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/992300/f1cd20fe2003a32bfe10f2e234a4a3f2cd234134.jpg",
+    "source": "https://store.steampowered.com/app/992300/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/992300",
+    "publisher": {
+      "0": {
+        "name": "艺龙游戏",
+        "type": "developer"
+      },
+      "1": {
+        "name": "艺龙游戏",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "嗜血印",
+        "type": "franchise"
+      }
+    },
+    "sha256": "0591aac98a9ed4c3095e0b4b01f7c83307ff0d54a9004076ca57bc233df0d15a",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "4907670",
+    "name": "霸业封神传奇",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=200&count=100&category1=998&infinite=1",
+        "rank": 255,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_4907670",
+    "group": "china_games",
+    "file": "china_games/steam_4907670.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4907670/c40b176c6a993fe140c06ccf9bf25225fa495ab6.jpg",
+    "source": "https://store.steampowered.com/app/4907670/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/4907670",
+    "publisher": {
+      "0": {
+        "name": "霸业封神传奇",
+        "type": "developer"
+      },
+      "1": {
+        "name": "霸业封神传奇",
+        "type": "publisher"
+      }
+    },
+    "sha256": "1a6d6aeff35708f608843828dc8f61bd0ee4813523b27f131407c2c8c3b7d8f7",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "4172450",
+    "name": "The Hidden Ones",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=300&count=100&category1=998&infinite=1",
+        "rank": 307,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_4172450",
+    "group": "china_games",
+    "file": "china_games/steam_4172450.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4172450/3242a51feb57602f73cd7ec47a4701e5b7f2ca40.jpg",
+    "source": "https://store.steampowered.com/app/4172450/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/4172450",
+    "publisher": {
+      "0": {
+        "name": "奇门互娱",
+        "type": "developer"
+      },
+      "1": {
+        "name": "IndieArk",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "IndieArk",
+        "type": "franchise"
+      }
+    },
+    "sha256": "0c6207e9c83897fd17226ec653de4b271684d0fa09b128df1d6d207d2b0c9155",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "4304230",
+    "name": "历史模拟器：崇祯",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=400&count=100&category1=998&infinite=1",
+        "rank": 430,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_4304230",
+    "group": "china_games",
+    "file": "china_games/steam_4304230.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4304230/2e54e29fbc5a4b64b9303d114deac9900d5bf313.jpg",
+    "source": "https://store.steampowered.com/app/4304230/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/4304230",
+    "publisher": {
+      "0": {
+        "name": "青干工作室",
+        "type": "developer"
+      },
+      "1": {
+        "name": "青干工作室",
+        "type": "publisher"
+      }
+    },
+    "sha256": "f5964c0bc89450af6784c5391662f8cd4e4ea2ef8dc9d83e06051b1b6932def5",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "3788590",
+    "name": "Sign: 碎冠篇",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=600&count=100&category1=998&infinite=1",
+        "rank": 615,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_3788590",
+    "group": "china_games",
+    "file": "china_games/steam_3788590.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3788590/e2cc813f6a67e51d2fb5a39bcf0998def117d028.jpg",
+    "source": "https://store.steampowered.com/app/3788590/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/3788590",
+    "publisher": {
+      "0": {
+        "name": "猫猫毛工坊Nekonoke",
+        "type": "developer"
+      },
+      "1": {
+        "name": "猫猫毛工坊Nekonoke",
+        "type": "publisher"
+      }
+    },
+    "sha256": "dd56ce332a4a2dca22e935e09dc323ec706ab94db62e0327ad6230d198c97ec9",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "1948980",
+    "name": "大侠立志传：碧血丹心",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=600&count=100&category1=998&infinite=1",
+        "rank": 674,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_1948980",
+    "group": "china_games",
+    "file": "china_games/steam_1948980.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/1948980/890a5d1e3b5ff05ca0b38994d899fa96225aefbe.jpg",
+    "source": "https://store.steampowered.com/app/1948980/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/1948980",
+    "publisher": {
+      "0": {
+        "name": "半瓶醋工作室（Half Amateur Studio）",
+        "type": "developer"
+      },
+      "1": {
+        "name": "XD",
+        "type": "publisher"
+      }
+    },
+    "sha256": "b877e294429ae5c4081c601c89ed956a339fb0f455cfba519837681f417d33e8",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "2179300",
+    "name": "Blades of Jianghu: Ballad of Wind and Dust",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=700&count=100&category1=998&infinite=1",
+        "rank": 725,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_2179300",
+    "group": "china_games",
+    "file": "china_games/steam_2179300.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2179300/0975858f1aa9383bab8ce2103589ece8af531549.jpg",
+    "source": "https://store.steampowered.com/app/2179300/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/2179300",
+    "publisher": {
+      "0": {
+        "name": "永恆艾莉絲工坊",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Alice Publication",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Eternal Alice Media",
+        "type": "publisher"
+      },
+      "3": {
+        "name": "Alice Publication",
+        "type": "franchise"
+      }
+    },
+    "sha256": "33713b825628df09bf54db371220731f817389be85ed20aabb26a2c0bfb6bd41",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "5000310",
+    "name": "ESCAPE FROM TOUHOU",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=700&count=100&category1=998&infinite=1",
+        "rank": 727,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_5000310",
+    "group": "china_games",
+    "file": "china_games/steam_5000310.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/5000310/c016951a7beeef4804a9c6aec77027fef1689f4c.jpg",
+    "source": "https://store.steampowered.com/app/5000310/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/5000310",
+    "publisher": {
+      "0": {
+        "name": "月影工房",
+        "type": "developer"
+      },
+      "1": {
+        "name": "月影工房",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "月影工房 作品集",
+        "type": "franchise"
+      }
+    },
+    "sha256": "2dd4ed4d10957a3697ee4ee7ef5e78ad3fbd53a4325223667d96986af6ed6f96",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "3039500",
+    "name": "万象群侠传",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=700&count=100&category1=998&infinite=1",
+        "rank": 742,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_3039500",
+    "group": "china_games",
+    "file": "china_games/steam_3039500.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3039500/57a3ba98dab41d492288b456037f89d1f5be190e.jpg",
+    "source": "https://store.steampowered.com/app/3039500/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/3039500",
+    "publisher": {
+      "0": {
+        "name": "火天工作室",
+        "type": "developer"
+      },
+      "1": {
+        "name": "火天工作室",
+        "type": "publisher"
+      }
+    },
+    "sha256": "02bb34dde7757d258c3ee0b4daf8c60efb5f69eb4e737f7513f129785ec47bac",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "3991720",
+    "name": "Sisters Connect",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=800&count=100&category1=998&infinite=1",
+        "rank": 834,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_3991720",
+    "group": "china_games",
+    "file": "china_games/steam_3991720.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3991720/1cc60286aa39336ef44bd693e1d1200be4aa9fe5.jpg",
+    "source": "https://store.steampowered.com/app/3991720/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/3991720",
+    "publisher": {
+      "0": {
+        "name": "光雪茶会",
+        "type": "developer"
+      },
+      "1": {
+        "name": "akaeroCore",
+        "type": "publisher"
+      }
+    },
+    "sha256": "864f4048a2f74b21a8c388793d5df9b8967fec430561f492d162844af8d20aac",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "3545990",
+    "name": "美女，请别影响我成仙",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=800&count=100&category1=998&infinite=1",
+        "rank": 836,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_3545990",
+    "group": "china_games",
+    "file": "china_games/steam_3545990.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/3545990/d7aa604dc1727e0237bd2fa46b3e648a384ff86f.jpg",
+    "source": "https://store.steampowered.com/app/3545990/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/3545990",
+    "publisher": {
+      "0": {
+        "name": "蒸汽满满工作室",
+        "type": "developer"
+      },
+      "1": {
+        "name": "一相逢互动娱乐",
+        "type": "publisher"
+      }
+    },
+    "sha256": "73af39fcbe732453298dc67f3cb813842889fcdabe83aad1d0d18a06449ca065",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "4172690",
+    "name": "1根香腸走江湖",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=800&count=100&category1=998&infinite=1",
+        "rank": 862,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_4172690",
+    "group": "china_games",
+    "file": "china_games/steam_4172690.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/4172690/8a1bdf60c75147a01a99f3b0d0bdf833b3a6ee0d.jpg",
+    "source": "https://store.steampowered.com/app/4172690/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/4172690",
+    "publisher": {
+      "0": {
+        "name": "1根香腸",
+        "type": "developer"
+      },
+      "1": {
+        "name": "1根香腸",
+        "type": "publisher"
+      }
+    },
+    "sha256": "483ef5ce38e802498ed87ed0d54f40c59b6da4aadab7d2b93a7f68e1bb28dc7d",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "2799930",
+    "name": "Spirit Realm",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=800&count=100&category1=998&infinite=1",
+        "rank": 886,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_2799930",
+    "group": "china_games",
+    "file": "china_games/steam_2799930.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2799930/8feac7b423d00dbccf7914959b054321fd44075b.jpg",
+    "source": "https://store.steampowered.com/app/2799930/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/2799930",
+    "publisher": {
+      "0": {
+        "name": "深圳市灵境互娱科技有限公司",
+        "type": "developer"
+      },
+      "1": {
+        "name": "深圳市灵境互娱科技有限公司",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "灵境",
+        "type": "franchise"
+      }
+    },
+    "sha256": "fa8a76585ba19868e2384a81d84835ff949ae62157d55ab0c4b06ad627522f76",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
+  },
+  {
+    "appid": "2389170",
+    "name": "华夏史诗：战国",
+    "charts": [
+      {
+        "source": "https://store.steampowered.com/search/results/?filter=topsellers&start=900&count=100&category1=998&infinite=1",
+        "rank": 909,
+        "retrieved": "2026-10-28"
+      }
+    ],
+    "id": "steam_2389170",
+    "group": "china_games",
+    "file": "china_games/steam_2389170.png",
+    "icon": "https://shared.akamai.steamstatic.com/community_assets/images/apps/2389170/89b13820a65b57dbcce0ca2598b30ba2f21f708f.jpg",
+    "source": "https://store.steampowered.com/app/2389170/",
+    "metadata_source": "https://api.steamcmd.net/v1/info/2389170",
+    "publisher": {
+      "0": {
+        "name": "秦川汉渚",
+        "type": "developer"
+      },
+      "1": {
+        "name": "秦川汉渚",
+        "type": "publisher"
+      }
+    },
+    "sha256": "886e63e45a14e6c23b96c8ff345be6a309d0118a055f92646300745d65c30544",
+    "classification": "Steam game ranked on official most-played / top-selling listings",
+    "rights": "Original game artwork; copyright and trademark retained by the respective rights holder."
   }
 ]

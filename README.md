@@ -5,7 +5,7 @@
 - 每帧所有格子使用**不同**图标，同一帧不会出现重复图标
 - 支持本地文件导入与**公开视频链接**解析
 - 可框选**任意**固定位置的水印 / 台标，在拼图前处理
-- 内置 18,293 个图标文件（9,709 个不同图标身份），国内素材优先
+- 内置 18,630 个图标文件（10,068 个不同图标身份），国内素材优先
 - Windows 一键环境检查与安装，小白双击即可跑起来
 
 ## 目录
@@ -28,7 +28,7 @@
 2. 完整解压（保留旁边的 `_internal` 文件夹）
 3. 双击 `图标映像.exe`
 
-便携版已经把 Python 运行时、NumPy / OpenCV、yt-dlp、FFmpeg 和 VC 运行库全部打包进去，**不需要装 Python，也不需要联网**。
+便携版已经把 Python 运行时、NumPy / OpenCV、yt-dlp、FFmpeg 和 VC 运行库全部打包进去，**不需要装 Python**。本地视频处理无需联网，解析视频链接时需要联网。
 
 | 文件 | 作用 |
 | --- | --- |
@@ -36,6 +36,9 @@
 | `_internal\` | 运行时与图标索引，必须和 exe 放在同一目录 |
 | `使用说明.md` | 本说明 |
 
+
+
+其他下载：`IconMosaic-source.zip` 是附带一键启动脚本和预处理索引的源码包；`IconMosaic-icons-18630.zip` 是完整原始素材与来源清单；`SHA256SUMS.txt` 用于校验附件。
 
 ### 方式二：源码一键运行
 
@@ -77,7 +80,7 @@ python app.py
 python app.py --input 原片.mp4 --output 输出.mp4 --columns 64 --height 1080 --fps 30
 
 # 带两个水印区域（归一化坐标，可重复传 --mask）
-python app.py --input 原片.mp4 --output 输出.mp4 --mask 0.012,0.034,0.207,0.066 --mask 0.617,0.733,0.207,0.049
+python app.py --input 原片.mp4 --output 输出.mp4 --mask 0.02,0.03,0.18,0.06 --mask 0.75,0.88,0.20,0.08
 
 # 只解析下载公开视频链接
 python app.py --url "https://b23.tv/xxxxxx" --download-only
@@ -90,7 +93,7 @@ python app.py --build-library "D:\我的图标" --library assets\library.npz
 | --- | --- | --- |
 | `--input` | — | 输入视频 |
 | `--output` | — | 输出 MP4；不填则打开图形界面 |
-| `--columns` | 64 | 横向图标数量（8–200） |
+| `--columns` | 64 | 横向图标数量（16–200） |
 | `--height` | 1080 | 输出高度，宽度按原比例 |
 | `--fps` | 0 | 0 = 跟随原片，最高 60 |
 | `--tint` | 0.55 | 轮廓增强，0–1 |
@@ -104,7 +107,7 @@ python app.py --build-library "D:\我的图标" --library assets\library.npz
 去水印是通用功能，与具体视频无关：
 
 1. 勾选「在原画上拖动框选区域」
-2. 在预览里按住左键拖出矩形，可框选多个区域；「撤销上一个」/「清空」可回退
+2. 在预览里按住左键拖出矩形，可框选多个区域；「撤销上一个」/「清空全部选区」可回退
 3. 松手后自动刷新预览，区域会在生成图标拼图之前处理
 
 坐标以画面宽高归一化保存，所以同一组选区可以复用到同机位、同分辨率的其他片段；也支持用 `--mask` 直接传给命令行。
@@ -113,13 +116,9 @@ python app.py --build-library "D:\我的图标" --library assets\library.npz
 
 ## 图标素材库
 
-当前索引：**18,293 个图标文件 / 18,046 张不同图案 / 9,709 个图标身份**。
+当前索引：**18,630 个图标文件 / 18,383 张不同图案 / 10,068 个图标身份**。
 
-| 分组 | 身份数 | 内容 |
-| --- | ---: | --- |
-| 国内 | 5,209 | 中国 App、国产游戏、二游 |
-| Steam | 785 | Steam 游戏图标 |
-| 通用 | 12,052 | 开源软件、服务、品牌图标 |
+本次按 Steam [热玩榜](https://store.steampowered.com/charts/mostplayed)与[热销榜](https://store.steampowered.com/charts/topselling/global)新增 337 个此前未收录的游戏图标，包括 Deadlock、Geometry Dash、The Binding of Isaac: Rebirth、Rocket League、R.E.P.O. 等。已保留上一版本的国内 App、游戏和二游素材，并更新热门选图优先级。
 
 选图规则：先按格子颜色在素材里找最接近的图标；国内素材优先参与，某一类不够时自动用其他素材补位，不会因为某类用完而中断。同一帧内图标身份不重复；整库都不够时提示降低密度或补充素材，不会用重复图标凑数。
 

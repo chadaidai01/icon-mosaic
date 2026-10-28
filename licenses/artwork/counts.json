@@ -1,9 +1,12 @@
 {
+  "china_anime_games": 35,
   "china_apps": 2702,
   "china_apps_more": 1427,
-  "china_games": 390,
+  "china_games": 404,
   "china_games_more": 611,
+  "china_popular_apps": 48,
+  "china_popular_games": 1,
   "dashboard": 4508,
   "selfhst": 7786,
-  "steam_games": 785
+  "steam_games": 1108
 }

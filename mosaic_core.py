@@ -127,7 +127,9 @@ def build_library(folder: Path, output: Path, status=lambda text: None, cancel=N
             relative = path.relative_to(folder).as_posix()
             record = records.get(relative, {})
             group = 0 if relative.startswith('china_') or record.get('curated_group') == 'domestic' or record.get('category') == 'anime_game' else 1 if relative.startswith('steam_games/') else 2
-            if record.get('appid'):
+            if record.get('identity_key'):
+                identity_key = str(record['identity_key'])
+            elif record.get('appid'):
                 identity_key = 'steam:'+str(record['appid'])
             else:
                 title = record.get('identity_name', record.get('name', path.stem))
